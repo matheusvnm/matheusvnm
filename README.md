@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi, I'm Matheus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**matheusvnm/matheusvnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Software/Research Engineer currently working on the High-Performance Computing (HPC) field. I'm also passionate about making creative software for automating people's daily routines. Some of the technologies I enjoy working with include Java, Python and C frameworks, and Cloud Computing Environments (AWS, and IBM Cloud).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technologies & Tools 👨🏻‍💻 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Environment-AWS-informational?style=flat&logo=amazon&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=e34a33)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=e34a33)
+
+### Github Stats 📈
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvnm&hide=html,makefile,tsql,css,javascript&langs_count=3&theme=swift" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvnm&show_icons=true&theme=swift&include_all_commits=true&count_private=true&line_height=27" />
+</a>
+
+
+### Find me around the web 🌎
+* See my latest research papers on [Research Gate](https://www.researchgate.net/profile/Sandro-Matheus-Vila-Nova-Marques)
+* See my professional updates on [Linkedin](https://www.linkedin.com/in/matheusvnm/)
+* Do not like social medias and want to talk formally? Email me at sandro-matheus@hotmail.com
