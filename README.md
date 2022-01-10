@@ -20,10 +20,10 @@ I'm a Software Engineer and Masters' student currently working on the High-Perfo
 
 ### Github Stats 📈
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/matheusvnm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvnm&hide=html,makefile,tsql,css,javascript&langs_count=3&theme=swift" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/matheusvnm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvnm&show_icons=true&theme=swift&include_all_commits=true&count_private=true&line_height=27" />
 </a>
 
