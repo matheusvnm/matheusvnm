@@ -30,5 +30,5 @@ I'm a Software Engineer and Masters' student currently working on the High-Perfo
 
 ### Find me around the web 🌎
 * See my latest research papers at [Research Gate](https://www.researchgate.net/profile/Sandro-Matheus-Vila-Nova-Marques)
-* See my professional updates at [Linkedin](https://www.linkedin.com/in/matheusvnm/)
+* See my professional updates on [Linkedin](https://www.linkedin.com/in/matheusvnm/)
 * Do not like social media and want to talk formally? Email me at sandro-matheus@hotmail.com
