@@ -1,4 +1,4 @@
-# Hi, I'm Matheus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="10px">
+# Hi, I'm Matheus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="10px">
 
 
 I'm a Software Engineer and Masters' student currently working on the High-Performance Computing (HPC) field. I'm also passionate about making creative software for automating people's daily routines. Some of the technologies I enjoy working with include Java, Python and C frameworks, and Cloud Computing Environments (AWS, and IBM Cloud).
