@@ -20,7 +20,7 @@ I'm a Software Engineer and Masters' student currently working on the High-Perfo
 ### Github Stats 📈
 
 <a href="https://github.com/matheusvnm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvnm&hide=c,html,makefile,tsql,raku,css,nasl,perl,cuda,fortran,javascript&langs_count=4&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvnm&hide=c,html,makefile,tsql,raku,css,nasl,perl,cuda,fortran,javascript&langs_count=3&theme=swift" />
 </a>
 <a href="https://github.com/matheusvnm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvnm&show_icons=true&theme=swift&include_all_commits=true&count_private=true&line_height=27" />
