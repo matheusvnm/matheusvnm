@@ -1,7 +1,7 @@
 # Hi, I'm Matheus
 
 
-I'm a Software Engineer working with high-performance money critical systems at @Nelogica. I worked on the High-Performance Computing (HPC) field during my master's degree. I'm also passionate about making creative software for automating people's daily routines. Some of the technologies I enjoy working with include Java, Python and C frameworks, and Cloud Computing Environments (AWS).
+I'm a Software Engineer working with high-performance money critical systems at ![@Nelogica](https://www.nelogica.com.br). I worked on the High-Performance Computing (HPC) field during my master's degree. I'm also passionate about making creative software for automating people's daily routines. Some of the technologies I enjoy working with include Java, Python and C frameworks, and Cloud Computing Environments (AWS).
 
 
 ### Technologies & Tools 👨🏻‍💻 
