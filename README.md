@@ -1,7 +1,9 @@
 # Hi, I'm Matheus
 
 
-I'm a Software Engineer working with high-performance money-critical systems at [@Nelogica](https://www.nelogica.com.br). I worked on the High-Performance Computing (HPC) field during my master's degree. I'm also passionate about making creative software for automating people's daily routines. Some of the technologies I enjoy working with include Java, Python and C frameworks, and Cloud Computing Environments (AWS).
+I'm an enthusiastic Software Engineer at [@CWI Software](https://cwi.com.br), focused on the challenging task of migrating legacy C systems to Python frameworks. My expertise in the High-Performance Computing (HPC) field, acquired during my master's degree, has shaped my approach to delivering efficient and powerful solutions.
+
+What truly ignites my passion is developing creative software that simplifies and automates people's daily routines. By leveraging the principles of DevOps culture, I immerse myself in a world of cutting-edge technologies, such as Python Frameworks, Cloud Computing Environments (AWS), and Containers (Docker). These tools enable me to craft solutions that are scalable, reliable, and aligned with industry best practices.
 
 
 ### Technologies & Tools 👨🏻‍💻 
@@ -20,7 +22,7 @@ I'm a Software Engineer working with high-performance money-critical systems at 
 ### Github Stats 📈
 
 <a href="https://github.com/matheusvnm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvnm&hide=html,makefile,shell,tsql,raku,css,nasl,perl,cuda,fortran,javascript&langs_count=3&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvnm&hide=html,makefile,shell,tsql,raku,css,nasl,perl,cuda,fortran,c%2B%2B,javascript&langs_count=3&theme=swift" />
 </a>
 <a href="https://github.com/matheusvnm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvnm&show_icons=true&theme=swift&include_all_commits=true&count_private=true&line_height=27" />
