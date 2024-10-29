@@ -1,7 +1,7 @@
 # Hi, I'm Matheus
 
 
-I'm an enthusiastic Software Engineer at [@CWI Software](https://cwi.com.br), focused on the challenging task of migrating legacy C systems to Python frameworks. My expertise in the High-Performance Computing (HPC) field, acquired during my master's degree, has shaped my approach to delivering efficient and powerful solutions.
+I'm an enthusiastic Software Engineer, focused on the challenging task of migrating legacy C systems to Python frameworks. My expertise in the High-Performance Computing (HPC) field, acquired during my master's degree, has shaped my approach to delivering efficient and powerful solutions.
 
 What truly ignites my passion is developing creative software that simplifies and automates people's daily routines. By leveraging the principles of DevOps culture, I immerse myself in a world of cutting-edge technologies, such as Python Frameworks, Cloud Computing Environments (AWS), and Containers (Docker). These tools enable me to craft solutions that are scalable, reliable, and aligned with industry best practices.
 
