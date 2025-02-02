@@ -16,16 +16,6 @@ What truly ignites my passion is developing creative software that simplifies an
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=e34a33)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=e34a33)
 
-### Github Stats 📈
-
-<a href="https://github.com/matheusvnm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvnm&hide=html,makefile,shell,tsql,raku,css,nasl,perl,cuda,fortran,c%2B%2B,javascript&langs_count=3&theme=swift" />
-</a>
-<a href="https://github.com/matheusvnm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvnm&show_icons=true&theme=swift&include_all_commits=true&count_private=true&line_height=27" />
-</a>
-
-
 ### Find me around the web 🌎
 * See my professional updates on [Linkedin](https://www.linkedin.com/in/matheusvnm/)
 * Do not like social media and want to talk formally? Email me at sandro-matheus@hotmail.com
